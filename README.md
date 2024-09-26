@@ -1,6 +1,9 @@
 # vvykunta_@225a
 
 + This is my repo for BMS 225A -DATA science. My work is organized as follows
-+ - `code ` is all my scipts in analysis
+
++ - `code` is all my scipts in analysis
+
   - `data` all my data for analysis
-  - ` figures` all figures during analysis
+  
+  - `figures` all figures during analysis
